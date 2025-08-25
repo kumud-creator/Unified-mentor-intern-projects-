@@ -12,7 +12,7 @@ Each project demonstrates skills in **Data Analysis, Machine Learning, Tableau D
 - **Goal:** Predict customer satisfaction based on support ticket data.  
 - **Tools:** Python, Pandas, Scikit-learn, Jupyter Notebook  
 - **Techniques:** Data preprocessing, feature engineering, Random Forest Classifier  
-- **Outcome:** Achieved **XX% accuracy**; key drivers identified: response time, resolution quality.  
+- **Outcome:**Key drivers identified: response time, resolution quality.  
 ➡️ Notebook: `Customer_Satisfaction_Prediction.ipynb`
 
 ---
